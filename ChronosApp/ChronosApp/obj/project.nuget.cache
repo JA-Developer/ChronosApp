@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "k08QHjy8ihQO4QAcw1hLJBeM3r/NJjmqOlCjMM7WDAsQvccC91qtv7SR8buMc0hyA4nUS1lqUsMR9a6B0UkhWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jesus\\source\\repos\\ChronosApp\\ChronosApp\\ChronosApp\\ChronosApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jesus\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jesus\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\jesus\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\jesus\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\jesus\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

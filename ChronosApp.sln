@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChronosApp.Android", "ChronosApp\ChronosApp.Android\ChronosApp.Android.csproj", "{55E15DB3-148B-4F0A-A0F3-6DDE32E822EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChronosApp", "ChronosApp\ChronosApp\ChronosApp.csproj", "{6B1F9092-8615-40B0-8822-3A041090BDB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55E15DB3-148B-4F0A-A0F3-6DDE32E822EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E15DB3-148B-4F0A-A0F3-6DDE32E822EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E15DB3-148B-4F0A-A0F3-6DDE32E822EC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{55E15DB3-148B-4F0A-A0F3-6DDE32E822EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E15DB3-148B-4F0A-A0F3-6DDE32E822EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55E15DB3-148B-4F0A-A0F3-6DDE32E822EC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6B1F9092-8615-40B0-8822-3A041090BDB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B1F9092-8615-40B0-8822-3A041090BDB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B1F9092-8615-40B0-8822-3A041090BDB7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6B1F9092-8615-40B0-8822-3A041090BDB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B1F9092-8615-40B0-8822-3A041090BDB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B1F9092-8615-40B0-8822-3A041090BDB7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C3A6B30-7FE2-4B66-8491-DAF293FB4270}
+	EndGlobalSection
+EndGlobal

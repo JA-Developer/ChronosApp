@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ChronosApp.MainPage">
+
+    <StackLayout BackgroundColor="#383838">
+        <Frame BackgroundColor="#000000" Padding="40" CornerRadius="0">
+            <Label x:Name="TimeLabel"  Text="{Binding TimeString, Mode=OneWay}" HorizontalTextAlignment="Center" TextColor="#FF9500" FontSize="48" />
+        </Frame>
+        <Grid IsVisible="{Binding IsNotRunning}">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <Button Text="Reiniciar"  Grid.Row="0" Grid.Column="0" BackgroundColor="#fbad10" Clicked="Reset_Clicked"/>
+            <Button Text="Iniciar" Grid.Row="0" Grid.Column="1" BackgroundColor="#59b87e" Clicked="Start_Clicked"/>
+        </Grid>
+        <Grid IsVisible="{Binding IsRunning}">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <Button Text="Vuelta"  Grid.Row="0" Grid.Column="0" BackgroundColor="#0090dd" Clicked="Lap_Clicked"/>
+            <Button Text="Parar" Grid.Row="0" Grid.Column="1" BackgroundColor="#EF6262" Clicked="Stop_Clicked"/>
+        </Grid>
+
+        <ListView x:Name="RecordsList" ItemsSource="{Binding ListOfItems}">
+        </ListView>
+
+    </StackLayout>
+
+</ContentPage>

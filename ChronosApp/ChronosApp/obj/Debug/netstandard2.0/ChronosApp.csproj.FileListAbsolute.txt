@@ -1,0 +1,15 @@
+C:\Users\jesus\source\repos\ChronosApp\ChronosApp\ChronosApp\bin\Debug\netstandard2.0\ChronosApp.deps.json
+C:\Users\jesus\source\repos\ChronosApp\ChronosApp\ChronosApp\bin\Debug\netstandard2.0\ChronosApp.dll
+C:\Users\jesus\source\repos\ChronosApp\ChronosApp\ChronosApp\bin\Debug\netstandard2.0\ref\ChronosApp.dll
+C:\Users\jesus\source\repos\ChronosApp\ChronosApp\ChronosApp\bin\Debug\netstandard2.0\ChronosApp.pdb
+C:\Users\jesus\source\repos\ChronosApp\ChronosApp\ChronosApp\obj\Debug\netstandard2.0\ChronosApp.csproj.AssemblyReference.cache
+C:\Users\jesus\source\repos\ChronosApp\ChronosApp\ChronosApp\obj\Debug\netstandard2.0\ChronosApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesus\source\repos\ChronosApp\ChronosApp\ChronosApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jesus\source\repos\ChronosApp\ChronosApp\ChronosApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jesus\source\repos\ChronosApp\ChronosApp\ChronosApp\obj\Debug\netstandard2.0\ChronosApp.AssemblyInfoInputs.cache
+C:\Users\jesus\source\repos\ChronosApp\ChronosApp\ChronosApp\obj\Debug\netstandard2.0\ChronosApp.AssemblyInfo.cs
+C:\Users\jesus\source\repos\ChronosApp\ChronosApp\ChronosApp\obj\Debug\netstandard2.0\ChronosApp.csproj.CoreCompileInputs.cache
+C:\Users\jesus\source\repos\ChronosApp\ChronosApp\ChronosApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jesus\source\repos\ChronosApp\ChronosApp\ChronosApp\obj\Debug\netstandard2.0\ChronosApp.dll
+C:\Users\jesus\source\repos\ChronosApp\ChronosApp\ChronosApp\obj\Debug\netstandard2.0\refint\ChronosApp.dll
+C:\Users\jesus\source\repos\ChronosApp\ChronosApp\ChronosApp\obj\Debug\netstandard2.0\ChronosApp.pdb
